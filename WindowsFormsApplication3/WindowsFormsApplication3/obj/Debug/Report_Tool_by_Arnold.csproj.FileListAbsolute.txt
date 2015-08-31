@@ -1,0 +1,9 @@
+C:\Users\423475\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Report_Tool_by_Arnold.exe.config
+C:\Users\423475\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Report_Tool_by_Arnold.exe
+C:\Users\423475\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Report_Tool_by_Arnold.pdb
+C:\Users\423475\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\423475\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\423475\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Report_Tool_by_Arnold.csproj.GenerateResource.Cache
+C:\Users\423475\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Report_Tool_by_Arnold.exe
+C:\Users\423475\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Report_Tool_by_Arnold.pdb
+C:\Users\423475\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Report_Tool_by_Arnold.csprojResolveAssemblyReference.cache
